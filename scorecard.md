@@ -4,8 +4,6 @@ Språkbanken Text's open source projects are scored from 1-4, where levels 3 and
 
 Below, you'll find what features and level of support you can find at each level.
 
-You can find a detailed scorecard with individual tracking for each project [here](https://docs.google.com/spreadsheets/d/1O-xPdpJljdSjtO2-LlkhrrjgvK-GX99mEBZMLyEW2qo/edit?usp=sharing).
-
 ## 1 - New Project
 
 [![Maturity badge - level 1](https://img.shields.io/badge/Maturity-Level%201%20--%20New%20Project-yellow.svg)](https://github.com/spraakbanken/getting-started/blob/main/scorecard.md)
